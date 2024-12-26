@@ -1,0 +1,40 @@
+.
+│
+├── __pycache__
+│   └── functions.cpython-311.pyc
+├── data
+│   ├── Data.ipynb
+│   ├── Data.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── Data.cpython-311.pyc
+│   │   └── __init__.cpython-311.pyc
+├── model
+│   ├── Model.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── Model.cpython-311.pyc
+│       └── __init__.cpython-311.pyc
+├── server
+│   ├── Server.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── Server.cpython-311.pyc
+│       └── __init__.cpython-311.pyc
+├── syft_exam.ipynb
+├── tree.txt
+└── user
+    ├── User.ipynb
+    ├── User.py
+    ├── __init__.py
+    ├── __pycache__
+    │   ├── User.cpython-311.pyc
+    │   └── __init__.cpython-311.pyc
+    └── interface
+        ├── IUserEntity.py
+        ├── __init__.py
+        └── __pycache__
+            ├── IUserEntity.cpython-311.pyc
+            └── __init__.cpython-311.pyc
+
+13 directories, 33 files
